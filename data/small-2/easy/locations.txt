@@ -1,0 +1,10 @@
+depot 21
+station 1
+depot 5
+depot 6
+station 9
+depot 11
+depot 10
+station 15
+station 14
+station 16
